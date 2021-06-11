@@ -2,6 +2,8 @@
 
 [![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicklleite&theme=dracula)](https://github.com/nicklleite/github-readme-stats)
 
+![Last played](https://spotify-recently-played-readme.vercel.app/api?user=nicklleite&count=10&width=1000)
+
 <!--
 **nicklleite/nicklleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
