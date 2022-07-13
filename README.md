@@ -13,9 +13,10 @@ great job on this!
 
 - 🔭 I’m currently working on [ICM](https://github.com/nicklleite/icm-base-system)
 - 🌱 I’m currently learning more about what Laravel can do to make my work more reliable
-
-Make yourself at home and feel free to see my repositories and follow me at
-[@nicklleite](https://twitter.com/nicklleite "Twitter / nicklleite")!
+- 🌱 I’m currently learning Vue.js version 3, improving the knowledge I have from the previous version
+- 📫 How to reach me:
+  - Make yourself at home and feel free to see my repositories and follow me at
+  [@nicklleite](https://twitter.com/nicklleite "Twitter / nicklleite")!
 
 <!--
 **nicklleite/nicklleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
