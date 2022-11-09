@@ -13,6 +13,7 @@ great job on this!
 
 - 🔭 I’m currently working on [ICM](https://github.com/nicklleite/icm-base-system)
 - 🌱 I’m currently learning more about what Laravel can do to make my work more reliable
+- 🌱 I’m currently learning Docker; React.js and Next.js (in this order)
 - 🌱 I’m currently learning Vue.js version 3, improving the knowledge I have from the previous version
 - 📫 How to reach me:
   - Make yourself at home and feel free to see my repositories and follow me at
