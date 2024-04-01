@@ -1,6 +1,6 @@
 For now... I'm under construction. Building up a new update for my firmware.
 
-Soon...
+Ah ah ah... you didn't say the magic word.
 
 <!--
 **nicklleite/nicklleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
