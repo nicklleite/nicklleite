@@ -16,7 +16,7 @@ Alongside with a regular job (the one I need right now, you know? Between jobs..
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklleite&repo=educatech-core&theme=nord&hide_border=true" title="asdasdad" />
 </a>
 
-***Obs.:** It's possible that, with the progress, this repo will be replaced or turn to private. Afterall, the capitalism game must be played.*
+<sub><em>**Obs.:** It's possible that, with the progress, this repo will be replaced or turn to private. Afterall, the capitalism game must be played.</em></sub>
 
 ----------------------------------------
 
