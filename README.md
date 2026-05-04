@@ -1,34 +1,100 @@
-# Introducing...
-... Nicholas. Hi, this is the new version of myself (I guess). Version 2024 (point something along side with a random alphanumeric string). And like all the things, I still got room for a lot of improvement.
+[🇧🇷 Português](#-olá-eu-sou-o-nicholas) · [🇺🇸 English](#-hi-im-nicholas)
 
-## Well...
-I've been a programmer (focused on web development) for about 10 years now. It took a while to finally become aware of what I really wanted to do as a web developer. I'm an information management maniac (at least this is how I define myself nowadays). I'm always up to any challenge that includes developing a new web-based system for managing data and information of any kind (it's amazing all the big things that could be achieved developing such tools). More importantly, this product will be a salvation for someone, and will facilitate people's day-by-day tasks. That's my thing! **IMPACT LIVES WITH TECHNOLOGY!**
+---
 
-<img src="https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=Laravel" alt="Laravel" /> <img src="https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql" alt="MySQL" /> <img src="https://img.shields.io/badge/postgresql-grey?style=for-the-badge&logo=postgresql" alt="PostegreSQL" /> <img src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3" alt="CSS" /> <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/jquery-grey?style=for-the-badge&logo=jquery" alt="jQuery" /> <img src="https://img.shields.io/badge/vue.js-grey?style=for-the-badge&logo=vue.js" alt="Vue.JS" />
+## 👋 Olá, eu sou o Nicholas
 
-## But...
-I think some developers are a little afraid to shout out about the areas of web development thay just dislike. Take me for example: I always make an extra effort to find job positions that don't have **ANYTHING** to do with e-commerce. *But Nicholas, e-commerce is a multi-billion industry and it's always growing!* That type of "speech" just don't have that much appeal to me anymore. I know I said that I love information and data managament (and e-commerce, in a good part, is basically that), but, been honest here... the madness of spcial comercial dates and things like that? Naa... thank you! My kind of madness is for managing, secure and do whatever is needed to transform data into information!
+Desenvolvedor PHP/Laravel com mais de 10 anos de experiência, focado no desenvolvimento de sistemas para gestão de informação e conteúdo. Não me interessa só fazer funcionar — me interessa planejar bem, arquitetar com cuidado e documentar o que foi decidido e por quê.
 
-## Currently...
-Alongside with a regular job (the one I need right now, you know? Between jobs... yeah...), I'm working as a volunteer on the development of a web-based system for educational info management. You can check the progress by accessing the repo:
+Atualmente, além do trabalho como desenvolvedor, sou fundador da **Big O Soluções Digitais**, através da qual desenvolvo voluntariamente o **Projeto ALMA** — um sistema de gestão administrativa, pedagógica e financeira para uma entidade filantrópica.
 
-<a href="https://github.com/nicklleite/educatech-core">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklleite&repo=educatech-core&theme=nord&hide_border=true" title="asdasdad" />
-</a>
+---
 
-<sub><em>**Obs.:** It's possible that, with the progress, this repo will be replaced or turn to private. Afterall, the capitalism game must be played.</em></sub>
+Desenvolvimento não é só código. No Projeto ALMA, sou responsável por todo o ciclo — da abstração das regras de negócio ao planejamento e definição da arquitetura do sistema, passando pelo levantamento de requisitos e modelagem do banco de dados.
 
-----------------------------------------
+---
 
-## And now... Some graphics to make things pretty!
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicklleite&include_all_commits=true&theme=nord&show_icons=true&hide_border=true" alt="Top Langs"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=nicklleite&include_all_commits=true&theme=nord&show_icons=true&hide_border=true" alt="Nicholas' GitHub stats"/>
-</div>
+### 🛠️ Stack
 
-## Yeah, I'm at...
-[![Linkedin](https://img.shields.io/badge/linkedin-292D3E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholasleite/)](https://www.linkedin.com/in/nicholasleite/)
-[![Gmail Badge](https://img.shields.io/badge/-email-292D3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicklleite@gmail.com)](mailto:nicklleite@gmail.com)
+**Linguagens**
+
+![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+
+**Frameworks**
+
+![Laravel](https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=laravel) ![Vue.js](https://img.shields.io/badge/Vue.js-grey?style=for-the-badge&logo=vue.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwindcss)
+
+**Bancos de dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql)
+
+---
+
+### 🚀 Projetos em destaque
+
+**[Projeto ALMA](https://github.com/nicklleite)**
+
+Sistema de gestão administrativa, pedagógica e financeira desenvolvido voluntariamente para uma entidade filantrópica, através da Big O Soluções Digitais. Tenho autonomia total desde o planejamento até a implementação — arquitetura, modelagem de banco de dados, levantamento de requisitos e desenvolvimento.
+
+**Configuração de ambiente — [pg-setup](https://github.com/nicklleite/pg-setup) · [webstack-setup](https://github.com/nicklleite/webstack-setup) · [dotfiles](https://github.com/nicklleite/dotfiles)**
+
+Scripts e configurações para montar meu ambiente de desenvolvimento no Arch Linux do zero. Basta instalar o Git, rodar os scripts e o ambiente está pronto. Meu editor principal é o Neovim — configuro e customizo tudo à mão. Além da conveniência, esses repositórios são um laboratório pessoal para aprender mais sobre shell script e Lua.
+
+---
+
+### 📬 Contato
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nicholasleite/)
+✉️ [nicklleite@gmail.com](mailto:nicklleite@gmail.com)
+
+---
+
+---
+
+## 👋 Hi, I'm Nicholas
+
+PHP/Laravel developer with over 10 years of experience, focused on building systems for information and content management. I'm not just interested in making things work — I care about planning well, designing with intention, and documenting what was decided and why.
+
+I'm also the founder of **Big O Soluções Digitais**, through which I'm voluntarily developing the **ALMA Project** — an administrative, pedagogical, and financial management system for a nonprofit organization.
+
+---
+
+Development isn't just about code. On the ALMA Project, I'm responsible for the full cycle — from abstracting business rules to planning and defining the system architecture, including requirements gathering and database modeling.
+
+---
+
+### 🛠️ Stack
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+
+**Frameworks**
+
+![Laravel](https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=laravel) ![Vue.js](https://img.shields.io/badge/Vue.js-grey?style=for-the-badge&logo=vue.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwindcss)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql)
+
+---
+
+### 🚀 Featured projects
+
+**[ALMA Project](https://github.com/nicklleite)**
+
+An administrative, pedagogical, and financial management system developed voluntarily for a nonprofit organization, through Big O Soluções Digitais. I have full autonomy from planning to implementation — architecture, database modeling, requirements gathering, and development.
+
+**Environment setup — [pg-setup](https://github.com/nicklleite/pg-setup) · [webstack-setup](https://github.com/nicklleite/webstack-setup) · [dotfiles](https://github.com/nicklleite/dotfiles)**
+
+Scripts and configuration files to set up my Arch Linux development environment from scratch. Just install Git, run the scripts, and the environment is ready. My main editor is Neovim — I configure and customize everything by hand. These repositories also serve as a personal lab for learning more about shell script and Lua.
+
+---
+
+### 📬 Contact
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nicholasleite/)
+✉️ [nicklleite@gmail.com](mailto:nicklleite@gmail.com)
 
 <!--
 **nicklleite/nicklleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
